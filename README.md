@@ -1,4 +1,4 @@
-# My Portfolio
+<h1 align="center">My Portfolio</h1>
 
 Welcome to my portfolio! I am a passionate **Third-year Computer Science student** at **Symbiosis Institute of Technology, Pune**, with a strong focus on **Web development** and **Data Science**. I love exploring new technologies, solving problems, and working on personal projects.
 
